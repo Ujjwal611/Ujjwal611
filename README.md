@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Jain</h1>
 <h3 align="center">A passionate programmer.</h3>
 
-<p align="left"> <a href="https://twitter.com/ujjwalj611" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalj611?logo=twitter&style=for-the-badge" alt="ujjwalj611" /></a> </p>
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1751513/screenshots/17631156/media/bdafde4779c28cb37f3e0356a1b7dac8.png?compress=1&resize=1200x900&vertical=top">
 
 - 📫 How to reach me **ujjwaljain0611@gmail.com**
